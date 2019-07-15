@@ -5,7 +5,7 @@ Chairi Kiourt George Pavlidis and Stella Markantonatou, Deep learning approaches
 
 Please cite this work as:
 
-Chairi Kiourt George Pavlidis and Stella Markantonatou, __Deep learning approaches in food recognition__, in the Book _MACHINE LEARNING PARADIGMS - Advances in Theory and Applications of Deep Learning_, Springer.
+Chairi Kiourt, George Pavlidis and Stella Markantonatou, __Deep learning approaches in food recognition__, in the Book _MACHINE LEARNING PARADIGMS - Advances in Theory and Applications of Deep Learning_, Springer.
 
 
 Bibtex
