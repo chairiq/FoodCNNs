@@ -104,7 +104,7 @@ nb_train_samples = train_generator.n
 nb_validation_samples = validation_generator.n
 n_classes = train_generator.num_classes
 
-model_name = 'PureFoodNet_299x299Nadam_2'
+model_name = 'PureFoodNet'
 epoch_num = 50
 
 model = PureFoodNet.getModel(input_shape=train_generator.image_shape,
