@@ -1,7 +1,7 @@
 # Deep learning approaches in food recognition
 
 This project is about food recognition with CNNs based on tensorflow and keras. The provided code is part of the book chapter
-Chairi Kiourt George Pavlidis and Stella Markantonatou, Deep learning approaches in food recognition, in the Book "MACHINE LEARNING PARADIGMS - Advances in Theory and Applications of Deep Learning" (Under Review). [Link](https://test.com/)
+Chairi Kiourt George Pavlidis and Stella Markantonatou, Deep learning approaches in food recognition, in the Book "MACHINE LEARNING PARADIGMS - Advances in Theory and Applications of Deep Learning" (accepted). [Link]
 
 Please cite this work as:
 
