@@ -15,7 +15,7 @@ Bibtex
   author={Kiourt, Chairi and Pavlidis, George  and Markantonatou, Stella},
   booktitle={MACHINE LEARNING PARADIGMS - Advances in Theory and Applications of Deep Learning},
   pages={xxx--xxx},
-  year={2019},
+  year={2020},
   editor = {G.A. Tsihrintzis and L. Jain}, 
   publisher={Springer}
 }
