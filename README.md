@@ -10,7 +10,7 @@ Chairi Kiourt, George Pavlidis and Stella Markantonatou, __Deep learning approac
 
 Bibtex
 ```
-@bookchapter{kiourt2019,
+@bookchapter{kiourt2020,
   title={Deep learning approaches in food recognition},
   author={Kiourt, Chairi and Pavlidis, George  and Markantonatou, Stella},
   booktitle={MACHINE LEARNING PARADIGMS - Advances in Theory and Applications of Deep Learning},
